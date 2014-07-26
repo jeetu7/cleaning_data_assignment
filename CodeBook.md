@@ -1,8 +1,8 @@
 Further information is available in the Readme.md file, course website and dataset site(check references).  The process of generating this dataset is written in Readme.md file. Also have a look at the comments inside run_analysis.R file. 
 
-[1] https://class.coursera.org/getdata-005
-[2] https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-
+    [1] https://class.coursera.org/getdata-005
+    [2] https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+ 
 The data in the second tidy dataset has the mean values of those variables which has words "mean" and "std" in them. This gives a general range of the sensors used in the dataset.
 
 The data in the merged set has the following attributes.
