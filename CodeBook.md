@@ -6,7 +6,7 @@ Further information is available in the Readme.md file, course website and datas
 The data in the second tidy dataset has the mean values of those variables which has words "mean" and "std" in them. This gives a general range of the sensors used in the dataset.
 
 The data in the merged set has the following attributes.
-
+```
 1  	Activity
 2  	Subject
 3  	tBodyAcc-mean()-X
@@ -570,3 +570,4 @@ The data in the merged set has the following attributes.
 561	 angle(X,gravityMean)
 562	 angle(Y,gravityMean)
 563	 angle(Z,gravityMean)
+```
